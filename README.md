@@ -14,11 +14,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrmoh&theme=radical&locale=fa" width="90%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hrmoh&theme=radical&locale=fa" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrmoh&theme=radical&locale=fa" width="45%" />
-</p>
-
 <!--
 **hrmoh/hrmoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
