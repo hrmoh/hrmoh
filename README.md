@@ -1,4 +1,4 @@
-### Hi there 👋
+### به راه بادیه رفتن به از نشستن باطل ... 👋
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrmoh) -->
 
@@ -7,7 +7,7 @@
 <!-- <h1 align="center">Stats:</h1> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hrmoh&theme=radical&hide_border=true" width="90%" />
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hrmoh&hide_border=true&locale=fa&background=45%2CFFFFFF%2CBEEBC6" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
