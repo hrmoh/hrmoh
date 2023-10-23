@@ -7,7 +7,7 @@
 <!-- <h1 align="center">Stats:</h1> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hrmoh&hide_border=true" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hrmoh&hide_border=true&locale=fa" width="90%" />
 </p>
 
 <p align="center">
