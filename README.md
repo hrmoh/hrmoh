@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrmoh&theme=radical" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrmoh&locale=fa" width="90%" />
 </p>
 
 <!-- <p align="center">
