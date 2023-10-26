@@ -7,7 +7,7 @@
 <!-- <h1 align="center">Stats:</h1> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hrmoh&hide_border=true&theme=radical&locale=fa" width="90%" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hrmoh&theme=radical&hide_border=true&locale=fa" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
