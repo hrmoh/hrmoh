@@ -1,17 +1,11 @@
-### به راه بادیه رفتن به از نشستن باطل ... 👋
-
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrmoh) -->
-
-
-
-<!-- <h1 align="center">Stats:</h1> -->
+### به راه بادیه رفتن به از نشستن باطل ... 
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hrmoh&theme=radical&hide_border=true&locale=fa" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hrmoh&theme=radical&locale=fa"  width="90%" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrmoh&theme=radical" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrmoh&theme=radical" alt="contributions in the last year" width="90%" />
 </p>
 
 <!--
