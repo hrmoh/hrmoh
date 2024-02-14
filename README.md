@@ -1,4 +1,4 @@
-### به راه بادیه رفتن به از نشستن باطل ... 
+### Changing the world, one commit at a time.
 <!--
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hrmoh&theme=radical&locale=fa"  width="90%" alt="GitHub Streak" /></a>
