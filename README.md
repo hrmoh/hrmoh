@@ -1,13 +1,14 @@
 ### Hopefully making the world a better place, one commit at a time.
-<!--
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hrmoh&theme=radical&locale=fa"  width="90%" alt="GitHub Streak" /></a>
 </p>
--->
 
+
+<!--
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrmoh&theme=radical" alt="contributions in the last year" width="90%" />
 </p>
+-->
 
 <!--
 **hrmoh/hrmoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
